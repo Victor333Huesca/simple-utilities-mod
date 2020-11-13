@@ -1,4 +1,4 @@
-# Simple Utilities Mod (Minecraft 1.15.x)
+# Simple Utilities Mod (Minecraft 1.16.3)
 
 Available to download from [Curseforge](https://www.curseforge.com/minecraft/mc-mods/simple-utilities).
 
@@ -56,8 +56,8 @@ A Minecraft Mod that enhances the Game's HUD with some simple utilities like the
 
 ## FAQ
 
-- **Does this Mod work on versions below 1.15?**
-    - No, it *might* work on 1.14 with some changes, but not anything below 1.14, since this Mod is made with Fabric, which only supports Minecraft 1.14 and above.
+- **Does this Mod work on older versions?**
+    - Yes but to a very limited range of versions. This mod was started with version 1.15 so all versions between this version and 1.16.3 are supported. Also 1.14 *might* work with some modifications but nothing can be guaranted. But older versions are **not** supported since this mod relies on Fabric which was started with Minecraft 1.14.
 
 - **Will this Mod get me banned from *X multiplayer server*?**
     - Maybe, maybe not, the Mod is entirely Client-sided and does not require it to be installed on the Server, and mostly shows things already available to you at all times like coordinates and Cardinal directions, like an extended but simplified F3 Menu, but it has some exceptions, like very specific Game time, so some servers may not allow it, do look into the Server's rules carefully before using it, do **not** create issues here asking about that, since I won't know.
